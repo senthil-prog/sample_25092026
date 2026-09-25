@@ -7,3 +7,4 @@ print("Multiplication", 8 * 7)
 >>>>>>> feature-branch
 for i in range(2):
     print(i)
+i = 0
